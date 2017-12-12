@@ -1,0 +1,22 @@
+{
+  "name": "bgg-collection-value",
+  "version": "0.0.1",
+  "description": "Look up BoardGameGeek collection by username and output collection value based upon BGG marketplace listings.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tmykkanen/bgg-collection-value.git"
+  },
+  "author": "Tyler Mykkanen",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tmykkanen/bgg-collection-value/issues"
+  },
+  "homepage": "https://github.com/tmykkanen/bgg-collection-value#readme",
+  "dependencies": {
+    "xml2js": "^0.4.19"
+  }
+}
